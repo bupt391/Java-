@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69a33fee-61cf-4ee4-80c7-df34334f338f" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\魏士博\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../softwares/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\softwares\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1dxFCXjioLd6R1J2LuEgduMxRwU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/course" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.13793105" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\richanglianxi\src\course" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\richanglianxi\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CountKeywords">
+    <configuration name="CountKeywords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.CountKeywords" />
+      <module name="richanglianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution" />
+      <module name="richanglianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="largestProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course.largestProduct" />
+      <module name="richanglianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.testThread" />
+      <module name="richanglianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testobject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.testobject" />
+      <module name="richanglianxi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountKeywords" />
+        <item itemvalue="Application.largestProduct" />
+        <item itemvalue="Application.testThread" />
+        <item itemvalue="Application.testobject" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69a33fee-61cf-4ee4-80c7-df34334f338f" name="默认更改列表" comment="" />
+      <created>1593358709602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593358709602</updated>
+      <workItem from="1593358714330" duration="1791000" />
+      <workItem from="1593395259721" duration="5821000" />
+      <workItem from="1593587017682" duration="3168000" />
+      <workItem from="1593667239918" duration="6092000" />
+      <workItem from="1593741854201" duration="3282000" />
+      <workItem from="1593936259811" duration="1910000" />
+      <workItem from="1594118684851" duration="656000" />
+      <workItem from="1594134095752" duration="1031000" />
+      <workItem from="1594350217630" duration="598000" />
+      <workItem from="1595054549251" duration="95000" />
+      <workItem from="1595482490980" duration="12699000" />
+      <workItem from="1595730040247" duration="18171000" />
+      <workItem from="1596983642902" duration="1429000" />
+      <workItem from="1597053275916" duration="1982000" />
+      <workItem from="1597151824923" duration="80000" />
+      <workItem from="1598237523394" duration="4811000" />
+      <workItem from="1598358098316" duration="59000" />
+      <workItem from="1598446801999" duration="2742000" />
+      <workItem from="1598515582957" duration="33000" />
+      <workItem from="1598956371588" duration="15000" />
+      <workItem from="1599896134754" duration="944000" />
+      <workItem from="1600074837200" duration="958000" />
+      <workItem from="1600223204452" duration="19000" />
+      <workItem from="1600310820402" duration="102000" />
+      <workItem from="1605514406665" duration="3114000" />
+      <workItem from="1606013277423" duration="2592000" />
+      <workItem from="1606374857752" duration="247000" />
+      <workItem from="1632152468046" duration="1878000" />
+      <workItem from="1632221320601" duration="9987000" />
+      <workItem from="1632559616366" duration="4357000" />
+      <workItem from="1632662559432" duration="2796000" />
+      <workItem from="1632814321735" duration="1431000" />
+      <workItem from="1632876447984" duration="164000" />
+      <workItem from="1633764330724" duration="4801000" />
+      <workItem from="1634515005842" duration="167000" />
+      <workItem from="1638078222878" duration="1788000" />
+      <workItem from="1638274686647" duration="276000" />
+      <workItem from="1638284092871" duration="2355000" />
+      <workItem from="1638680126513" duration="1161000" />
+      <workItem from="1638961638204" duration="6251000" />
+      <workItem from="1639106392318" duration="19000" />
+      <workItem from="1639490053359" duration="1640000" />
+      <workItem from="1639540201830" duration="21000" />
+      <workItem from="1639540315421" duration="38000" />
+      <workItem from="1639643186975" duration="139000" />
+      <workItem from="1639644616658" duration="660000" />
+      <workItem from="1639645401301" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1632152559019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="260" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1632152559019" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1638274963616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1638274963616" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1634515171492" />
+    <state width="1323" height="81" key="GridCell.Tab.0.bottom" timestamp="1639492131199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638285790968" />
+    <state width="1323" height="269" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1639067593229" />
+    <state width="1323" height="81" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1639492131199" />
+    <state width="1323" height="81" key="GridCell.Tab.0.center" timestamp="1639492131199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638285790968" />
+    <state width="1323" height="269" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1639067593228" />
+    <state width="1323" height="81" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1639492131199" />
+    <state width="1323" height="81" key="GridCell.Tab.0.left" timestamp="1639492131199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638285790968" />
+    <state width="1323" height="269" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1639067593224" />
+    <state width="1323" height="81" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1639492131199" />
+    <state width="1323" height="81" key="GridCell.Tab.0.right" timestamp="1639492131199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="267" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638285790968" />
+    <state width="1323" height="269" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1639067593229" />
+    <state width="1323" height="81" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1639492131199" />
+    <state width="1323" height="186" key="GridCell.Tab.1.bottom" timestamp="1638705770431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638284937274" />
+    <state width="1323" height="186" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1638705770431" />
+    <state width="1323" height="186" key="GridCell.Tab.1.center" timestamp="1638705770430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638284937274" />
+    <state width="1323" height="186" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1638705770430" />
+    <state width="1323" height="186" key="GridCell.Tab.1.left" timestamp="1638705770430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638284937273" />
+    <state width="1323" height="186" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1638705770430" />
+    <state width="1323" height="186" key="GridCell.Tab.1.right" timestamp="1638705770431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="293" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-74.1920.1040@-1920.-74.1920.1040" timestamp="1638284937274" />
+    <state width="1323" height="186" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1638705770431" />
+    <state x="337" y="67" key="NewModule_or_Project.wizard" timestamp="1634515101940">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1634515101940" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1639644671561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728/-1920.-74.1920.1040@0.0.1366.728" timestamp="1639644671561" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Find.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/max_value.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/min_dic.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/SerializeTree.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/min_sum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Game24Player.java</url>
+          <line>218</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Game24Player.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Game24Player.java</url>
+          <line>268</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Game24Player.java</url>
+          <line>216</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/test_inandout.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
